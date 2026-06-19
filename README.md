@@ -47,5 +47,4 @@ FullStack Developer
 ## Contacts
 
 - Telegram: [@LojkaWilka](https://t.me/LojkaWilka)
-- Email: naychuknikita@mail.ru
-- GitHub: https://github.com/JulSannin
+- Email: naychuknikita99@gmail.com
