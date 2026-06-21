@@ -1,5 +1,5 @@
 # Hi, I'm Nikita 👋
-FullStack Developer
+FrontEnd Developer
 
 ## About Me
 
